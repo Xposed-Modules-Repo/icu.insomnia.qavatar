@@ -1,9 +1,9 @@
 <div align="center">
 
 
-<h1>HookWx</h1>
+<h1>QAvatar</h1>
 
-> **HookWx By HdShare**
+> 
 
 <div align="center">
 
