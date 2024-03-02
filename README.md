@@ -26,7 +26,7 @@
 
   `/storage/emulated/0/Android/data/com.tencent.mobileqq/files/qavatar/`
 
-- 支持从指定URL下载图片作为头像
+- 支持从指定URL下载图片作为头像（URL如 https://avatar.insomnia.icu/）
 
 
 
@@ -34,7 +34,7 @@
 
 - 见QQ设置首页
 - 或见QQ账号管理设置页
-- 
+- <img src="https://github.com/Xposed-Modules-Repo/icu.insomnia.qavatar/blob/main/img/161ff7eff5c18faaee576a6ac07f5bed.jpg?raw=true" alt="img" style="zoom:67%;" />
 
 
 
