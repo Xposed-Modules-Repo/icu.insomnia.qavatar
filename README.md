@@ -22,11 +22,11 @@
 
 ## 功能：
 
-- 从指定文件夹下自动上传QQ头像
+- QAvatar**始终**从指定文件夹自动上传QQ头像，可以手动移入**1:1 jpg**到此目录
 
   `/storage/emulated/0/Android/data/com.tencent.mobileqq/files/qavatar/`
 
-- 支持从指定URL下载图片作为头像（URL如 https://avatar.insomnia.icu/）
+- 支持从指定URL下载图片到上述目录（URL如 https://avatar.insomnia.icu/）
 
 
 
@@ -36,6 +36,10 @@
 - 或见QQ账号管理设置页
 - <img src="https://github.com/Xposed-Modules-Repo/icu.insomnia.qavatar/blob/main/img/161ff7eff5c18faaee576a6ac07f5bed.jpg?raw=true" alt="img" style="zoom:67%;" />
 
+
+## 触发条件
+1. QAvatar并未设置定时器，HOOK入口点为`android.app.Application#attach`，因此，只有在重启QQ或QQ加载其内部某些组件的时，才会触发上传行为
+2. 你可以通过调整冷却时间来调节上传频率
 
 
 ## 测试列表：
