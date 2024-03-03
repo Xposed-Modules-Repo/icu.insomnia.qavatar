@@ -22,9 +22,11 @@
 
 ## 功能：
 
-- QAvatar**始终**从指定文件夹自动上传QQ头像，可以手动移入**1:1 jpg**到此目录
+- QAvatar**始终**从指定文件夹自动上传`nextTick.jpg`作为QQ头像，你可以手动移入**1:1 jpg**到此目录
 
   `/storage/emulated/0/Android/data/com.tencent.mobileqq/files/qavatar/`
+
+- QAvatar always try to rename a img in the Dir to `nextTick.jpg` randomly，And rename the used as `timespam-Used.jpg`
 
 - 支持从指定URL下载图片到上述目录（URL如 https://avatar.insomnia.icu/）
 
@@ -32,8 +34,7 @@
 
 ## 初始化：
 
-- 见QQ设置首页
-- 或见QQ账号管理设置页
+- 见`QQ设置首页`或`QQ账号管理`
 - <img src="https://github.com/Xposed-Modules-Repo/icu.insomnia.qavatar/blob/main/img/161ff7eff5c18faaee576a6ac07f5bed.jpg?raw=true" alt="img" style="zoom:67%;" />
 
 
