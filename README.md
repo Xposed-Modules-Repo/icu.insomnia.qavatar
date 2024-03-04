@@ -2,7 +2,7 @@
 
 
 <h1>QAvatar</h1>
-
+<h2>自动更换QQ头像</h2>
 > 
 
 <div align="center">
