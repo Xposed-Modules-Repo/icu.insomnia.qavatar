@@ -48,7 +48,8 @@
 
 | phone        | API        | os              | Q_version          |
 | ------------ | ---------- | --------------- | ------------------ |
-| K40 pro      | Android11  | MIUI12.5 12.5.8 | QQ8.9.68           |
+| Mi 10 Ultra  | Android 11  | MIUI12.5 12.5.10 | QQ8.9.68           |
+| K40 pro      | Android 11  | MIUI12.5 12.5.8 | QQ8.9.68           |
 | Xiaomi Note3 | Android 11 | crDroid 7.21    | QQ9.0.17 \ QQ8.6.0 |
 | MI 6         | Android 9  | MIUI10 9.9.3    | QQ8.9.71           |
 
