@@ -54,3 +54,11 @@
 | MI 6         | Android 9  | MIUI10 9.9.3    | QQ8.9.71           |
 
 在上述设备上测试通过
+
+
+
+## 源代码
+
+[仓库](https://github.com/NoonieBao/QAvatar)已公开，欢迎反馈🚀
+
+**如果你喜欢这个项目，就请移步[仓库](https://github.com/NoonieBao/QAvatar)为我点个star吧**🥰
