@@ -29,7 +29,7 @@
 
 - QAvatar always try to rename a img in the Dir to `nextTick.jpg` randomly，And rename the used as `timespam-Used.jpg`
 
-- 支持从指定URL下载图片到上述目录（URL如 https://avatar.insomnia.icu/）
+- 支持从指定URL下载图片到上述目录（URL如 ~~https://avatar.insomnia.icu/~~ (已变更为https://avatar.corosy.com/ )）
 
 - **如果你选择手动移入1:1 jpg，请确保移动后的文件具有正确的权限。如660**
 
