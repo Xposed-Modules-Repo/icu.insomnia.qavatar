@@ -16,7 +16,9 @@
 </div>
 
 
+## 重要信息
 
+**请手动设置url为`https://avatar.corosy.com/`**
 
 
 ## 功能：
@@ -48,6 +50,7 @@
 
 | phone        | API        | os              | Q_version          |
 | ------------ | ---------- | --------------- | ------------------ |
+| Mi 10 Ultra  | Android 11  | MIUI12.5 12.5.10 | QQ9.1.0           |
 | Mi 10 Ultra  | Android 11  | MIUI12.5 12.5.10 | QQ8.9.68           |
 | K40 pro      | Android 11  | MIUI12.5 12.5.8 | QQ8.9.68           |
 | Xiaomi Note3 | Android 11 | crDroid 7.21    | QQ9.0.17 \ QQ8.6.0 |
